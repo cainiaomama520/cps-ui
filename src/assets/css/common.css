@@ -1,0 +1,43 @@
+
+.leftNav .el-aside{
+	padding-bottom: 1000px;
+	margin-bottom: -1000px;
+}
+a{
+	text-decoration: none;
+}
+.sel.el-select{
+	width: 100%;
+}
+.formTit{
+	font-size: 20px;
+	margin-bottom: 30px;
+	font-weight: bolder;
+}
+.el-input-number{
+	width:100%;
+	
+}
+.el-input-number .el-input__inner{
+text-align: left;
+}
+.num.el-input-number{
+    width: 100px;
+}
+.myDialog .el-dialog{
+	display: inline-block;
+	width: auto;
+	margin: 0 auto;
+	text-align: left;
+
+}
+.myDialog{
+	text-align: center;
+}
+.el-pagination{
+	text-align:right;
+	margin-top: 20px;
+}
+.el-table td, .el-table th{
+	text-align: center;
+}
